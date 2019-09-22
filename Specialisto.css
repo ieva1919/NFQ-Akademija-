@@ -1,0 +1,22 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+  }
+
+  .administravimo-title {
+    font-weight: bold;
+    line-height: normal;
+  }
+
+  .margin {
+      margin: 50px;
+  }
+
+  a {
+    color: #6C757D;
+    font-weight: bold;
+  }
+
+  a:hover {
+    color: black;
+  }

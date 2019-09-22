@@ -1,0 +1,36 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 60px;
+    background-color: black;
+    color: red;
+  }
+
+  .administravimo-title {
+    font-weight: bold;
+    line-height: normal;
+  }
+
+  .margin {
+      margin: 50px;
+  }
+
+  .color {
+      color:white;
+  }
+
+  .sarasas h3 {
+      margin: 30px;
+      font-weight: bold;
+  }
+
+  tbody tr:first-child {
+    color: green;
+    font-size: 80px;
+    background-color: #3A3D34 !important;
+  }
+
+  tr {
+    animation-duration: 3s;
+    animation-delay: 0,2s;
+    animation-iteration-count: 4;
+  }
