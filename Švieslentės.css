@@ -1,6 +1,6 @@
 body {
     font-family: 'Roboto', sans-serif;
-    font-size: 60px;
+    font-size: 70px;
     background-color: black;
     color: red;
   }
@@ -25,7 +25,7 @@ body {
 
   tbody tr:first-child {
     color: green;
-    font-size: 80px;
+    font-size: 90px;
     background-color: #3A3D34 !important;
   }
 
